@@ -12,10 +12,10 @@ While the topic can be chosen at a student's discretion, please ensure that the 
 
 [<strong>10 Points</strong>] Write a four page summary of your work (not including references). The format of the four page paper should be double column IEEE or ACM format. You will be graded on your writing style and academic rigor of the paper. Academic rigor is a broad term, which may include:
 
--Your ability to motivate your research topic given related work 
--Your ability to convey the mathematics or intuition behind a new algorithm
--Your ability to explain methodologies and motivate chosen results metrics
--Your English ability is ONLY A MINOR consideration here if you convey the correct content. However, if the English usage is so poor that it makes aspects of the research methods ambiguous, it may be considered a more major grading component. 
+- Your ability to motivate your research topic given related work 
+- Your ability to convey the mathematics or intuition behind a new algorithm
+- Your ability to explain methodologies and motivate chosen results metrics
+- Your English ability is ONLY A MINOR consideration here if you convey the correct content. However, if the English usage is so poor that it makes aspects of the research methods ambiguous, it may be considered a more major grading component. 
 When grading, the grader will be asking: Did the writing of the paper properly convey why and how the research was completed? 
 
 ## What to Turn In
